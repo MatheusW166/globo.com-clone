@@ -1,2 +1,3 @@
 # globo.com-clone
-Simplified globo.com main page made with HTML5 and CSS.
+
+globo.com simplified main page with responsive layout made with HTML5 and CSS.
